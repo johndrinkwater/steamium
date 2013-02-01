@@ -1,4 +1,4 @@
-steamium
+Steamium
 ========
 
 Kinda obvious, no?
